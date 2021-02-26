@@ -5,5 +5,6 @@ public class gitsh0821 {
         System.out.println("hello master");
         System.out.println("厉害");
         System.out.println("哈哈");
+        System.out.println("ssh免密测试");
     }
 }
